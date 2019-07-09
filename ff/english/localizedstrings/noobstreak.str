@@ -1,0 +1,27 @@
+// eXtreme+ noob streak string file
+
+REFERENCE			MSG_5
+LANG_ENGLISH		"Noob streak: &&1^7 killed 5 times in a row using &&2"
+
+REFERENCE			MSG_10
+LANG_ENGLISH		"Noob streak: &&1^7 killed 10 times in a row using &&2"
+
+REFERENCE			MSG_15
+LANG_ENGLISH		"Noob streak: &&1^7 killed 15 times in a row using &&2"
+
+REFERENCE			MSG_20
+LANG_ENGLISH		"Noob streak: &&1^7 killed 20 times in a row using &&2"
+
+REFERENCE			MSG_25
+LANG_ENGLISH		"Noob streak: &&1^7 killed 25 times in a row using &&2"
+
+REFERENCE			MSG_30
+LANG_ENGLISH		"Noob streak: &&1^7 killed 30 times in a row using &&2"
+
+REFERENCE			MSG_35A
+LANG_ENGLISH		"&&1^7 is owning everyone in the game using &&2"
+
+REFERENCE			MSG_35B
+LANG_ENGLISH		"&&1 kills in a row... and counting!"
+
+ENDMARKER

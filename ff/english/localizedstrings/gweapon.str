@@ -1,0 +1,189 @@
+// eXtreme+ gramatic weapons string file
+
+REFERENCE           MP44
+LANG_ENGLISH        "an MP44"
+
+REFERENCE           M2FRAGGRENADE
+LANG_ENGLISH        "an M2 Frag Grenade"
+
+REFERENCE           MK1_FRAG_GRENADE
+LANG_ENGLISH        "an MK1 Frag Grenade"
+
+REFERENCE           DEFAULTWEAPON
+LANG_ENGLISH        "a Default Weapon"
+
+REFERENCE           C4
+LANG_ENGLISH        "a C4"
+
+REFERENCE           CLAYMORE
+LANG_ENGLISH        "a Claymore"
+
+REFERENCE           SMOKE_GRENADE
+LANG_ENGLISH        "a Smoke Grenade"
+
+REFERENCE           FLASH_GRENADE
+LANG_ENGLISH        "a Flash Grenade"
+
+REFERENCE           CONCUSSION_GRENADE
+LANG_ENGLISH        "a Stun Grenade"
+
+REFERENCE           RPG
+LANG_ENGLISH        "an RPG-7"
+
+REFERENCE           AT4
+LANG_ENGLISH        "AT4"
+
+REFERENCE           MP5_SILENCER
+LANG_ENGLISH        "a MP5SD"
+
+REFERENCE           MP5
+LANG_ENGLISH        "a MP5"
+
+REFERENCE           MAC10
+LANG_ENGLISH        "a Mac-10"
+
+REFERENCE           P90_SILENCER
+LANG_ENGLISH        "a P90-SD"
+
+REFERENCE           P90
+LANG_ENGLISH        "a P90"
+
+REFERENCE           M16
+LANG_ENGLISH        "an M16A4"
+
+REFERENCE           M203
+LANG_ENGLISH        "an M203"
+
+REFERENCE           G36C
+LANG_ENGLISH        "a G36C"
+
+REFERENCE           M14
+LANG_ENGLISH        "an M14"
+
+REFERENCE           M40A3
+LANG_ENGLISH        "an M40A3"
+
+REFERENCE           BARRETT
+LANG_ENGLISH        "a Barrett .50cal"
+
+REFERENCE           WINCHESTER1200
+LANG_ENGLISH        "a W1200"
+
+REFERENCE           BENELLI
+LANG_ENGLISH        "an M1014"
+
+REFERENCE           M4M203
+LANG_ENGLISH        "an M4A1 Grenadier"
+
+REFERENCE           M4
+LANG_ENGLISH        "an M4A1"
+
+REFERENCE           M4_SILENCER
+LANG_ENGLISH        "an M4A1 Suppressed"
+
+REFERENCE           M4M203_SILENCER
+LANG_ENGLISH        "an M4A1 SOPMOD"
+
+REFERENCE           SAW
+LANG_ENGLISH        "an M249 SAW"
+
+REFERENCE           M60E4
+LANG_ENGLISH        "an M60E4"
+
+REFERENCE           SKORPION
+LANG_ENGLISH        "a Skorpion"
+
+REFERENCE           UZI
+LANG_ENGLISH        "a Mini-Uzi"
+
+REFERENCE           AK47
+LANG_ENGLISH        "an AK-47"
+
+REFERENCE           AK47_GP25
+LANG_ENGLISH        "an AK-47 Grenadier"
+
+REFERENCE           GP25
+LANG_ENGLISH        "a GP-25"
+
+REFERENCE           G3
+LANG_ENGLISH        "a G3"
+
+REFERENCE           DRAGUNOV
+LANG_ENGLISH        "a Dragunov"
+
+REFERENCE           REMINGTON700
+LANG_ENGLISH        "a R700"
+
+REFERENCE           AW50
+LANG_ENGLISH        "an AW-50"
+
+REFERENCE           AK74U
+LANG_ENGLISH        "an AK-74u"
+
+REFERENCE           RPD
+LANG_ENGLISH        "a RPD"
+
+REFERENCE           BERETTA
+LANG_ENGLISH        "an M9"
+
+REFERENCE           USP
+LANG_ENGLISH        "a USP .45"
+
+REFERENCE           DESERTEAGLE
+LANG_ENGLISH        "a Desert Eagle"
+
+REFERENCE           COLT1911
+LANG_ENGLISH        "an M1911 .45"
+
+REFERENCE           COLT45
+LANG_ENGLISH        "an M1911 .45"
+
+REFERENCE           AG36
+LANG_ENGLISH        "an AG36"
+
+REFERENCE           HK79
+LANG_ENGLISH        "a HK79"
+
+REFERENCE           EGLM
+LANG_ENGLISH        "an FN EGLM"
+
+REFERENCE           JAVELIN
+LANG_ENGLISH        "an FGM-148 Javelin"
+
+REFERENCE           STINGER
+LANG_ENGLISH        "an FIM-92 Stinger"
+
+REFERENCE           M21_SILENCER
+LANG_ENGLISH        "an M21 Suppressed"
+
+REFERENCE           M21
+LANG_ENGLISH        "an M21"
+
+REFERENCE           M4_CARBINE
+LANG_ENGLISH        "an M4 Carbine"
+
+REFERENCE           DESERTEAGLEGOLD
+LANG_ENGLISH        "a Gold Desert Eagle"
+
+REFERENCE           GRENADE_LAUNCHER
+LANG_ENGLISH        "an Grenade Launcher"
+
+REFERENCE           ANM8_SMOKE_GRENADE
+LANG_ENGLISH        "an ANM8 Smoke Grenade"
+
+REFERENCE           UZI_SILENCER
+LANG_ENGLISH        "a Mini-Uzi Suppressed"
+
+REFERENCE           STUN_GRENADE
+LANG_ENGLISH        "a Stun Grenade"
+
+REFERENCE           M16A4_GRENADIER
+LANG_ENGLISH        "an M16A4 Grenadier"
+
+REFERENCE           KNIFE
+LANG_ENGLISH        "a combat knife"
+
+REFERENCE           UNKNOWN
+LANG_ENGLISH        "a bullet"
+
+ENDMARKER

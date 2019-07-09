@@ -1,0 +1,36 @@
+// eXtreme+ ready-up string file
+
+REFERENCE           READYUP
+LANG_ENGLISH        "READY-UP"
+
+REFERENCE           WAITING_FOR_PLAYERS
+LANG_ENGLISH        "Waiting for players..."
+
+REFERENCE           WAITING_FOR
+LANG_ENGLISH        "Waiting for"
+
+REFERENCE           MORE_PLAYERS
+LANG_ENGLISH        "player(s)..."
+
+REFERENCE           READY
+LANG_ENGLISH        "Your status: ^2READY"
+
+REFERENCE           NOTREADY
+LANG_ENGLISH        "Your status: ^1NOT READY"
+
+REFERENCE           HOWTO
+LANG_ENGLISH        "Press USE [[{+activate}]] to toggle your ready-up status"
+
+REFERENCE           GRACE_PERIOD
+LANG_ENGLISH        "Joining time left"
+
+REFERENCE           GRACE_PERIOD_OVER
+LANG_ENGLISH        "You cannot join this round anymore"
+
+REFERENCE           WAIT_FOR_NEXT_ROUND
+LANG_ENGLISH        "Please wait for next round to start..."
+
+REFERENCE           MATCH_BEGINS
+LANG_ENGLISH        "Match begins in "
+
+ENDMARKER

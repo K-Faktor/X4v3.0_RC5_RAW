@@ -1,0 +1,63 @@
+// eXtreme+ server redirection string file
+
+REFERENCE       TITLE
+LANG_ENGLISH    "^1X^44 ^7 Server Redirection"
+
+REFERENCE       TIMELEFT
+LANG_ENGLISH    "Time left: ^1"
+
+REFERENCE       REASON_ISFULL
+LANG_ENGLISH    "^1THIS SERVER IS CURRENTLY FULL!"
+
+REFERENCE       REASON_ISPRIVATE
+LANG_ENGLISH    "^1THIS SERVER IS FOR CLAN MEMBERS ONLY!"
+
+REFERENCE       REASON_ISOLD
+LANG_ENGLISH    "^1THIS SERVER IS NOT AVAILABLE ANYMORE!"
+
+REFERENCE       REASON_ISSERVICED
+LANG_ENGLISH    "^1THIS SERVER IS CURRENTLY BEING SERVICED!"
+
+REFERENCE       REASON_CLANPRIORITY
+LANG_ENGLISH    "^1THIS PLAYER SLOT IS FREED UP FOR A CLAN MEMBER!"
+
+REFERENCE       CLAN_FREEUPSLOT
+LANG_ENGLISH    "^2THE SERVER IS FREEING UP A PLAYER SLOT FOR YOU!"
+
+REFERENCE       CLAN_ABORTED
+LANG_ENGLISH    "^2THE REDIRECTION HAS BEEN ABORTED!"
+
+REFERENCE       CLAN_PLEASEWAIT
+LANG_ENGLISH    "Please wait while we redirect another player"
+
+REFERENCE       CLAN_CONTINUE
+LANG_ENGLISH    "The priority player disconnected. You can continue"
+
+REFERENCE       TO_OTHERSERVER
+LANG_ENGLISH    "You are being redirected to our other server"
+
+REFERENCE       TO_PUBLICSERVER
+LANG_ENGLISH    "You are being redirected to our public server"
+
+REFERENCE       TO_NEWSERVER
+LANG_ENGLISH    "You are being redirected to our new server"
+
+REFERENCE       HINT_REMFROMFAV
+LANG_ENGLISH    "Please remove this server from your favorites"
+
+REFERENCE       HINT_ADDTOFAV
+LANG_ENGLISH    "Please add the new server to your favorites"
+
+REFERENCE       HINT_VISITWEBSITE
+LANG_ENGLISH    "Please visit our website for more information"
+
+REFERENCE       HINT_SORRY
+LANG_ENGLISH    "We are sorry for the inconvenience it may cause"
+
+REFERENCE       HINT_PRIORITY
+LANG_ENGLISH    "Because of our priority policy this may happen again"
+
+REFERENCE       HINT_EXTREME
+LANG_ENGLISH    "^3e^1X^3treme ^1X^44"
+
+ENDMARKER

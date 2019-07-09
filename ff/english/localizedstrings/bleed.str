@@ -1,0 +1,75 @@
+// eXtreme+ bleeding string file
+		
+REFERENCE           NECK
+LANG_ENGLISH        "Your Neck is bleeding^7"		
+
+REFERENCE           HEAD
+LANG_ENGLISH        "Your Head is bleeding^7"
+
+REFERENCE           HELMET
+LANG_ENGLISH        "Your Helmet was shoot off^7"
+
+REFERENCE           UPPERTORS
+LANG_ENGLISH        "Your Upper body is bleeding^7"
+
+REFERENCE           LOWERTORS
+LANG_ENGLISH        "Your Lower body is bleeding^7"
+
+REFERENCE           LEFTLEGUP
+LANG_ENGLISH        "Your Left Upper leg is bleeding^7"
+
+REFERENCE           RIGHTLEGUP
+LANG_ENGLISH        "Your Right Upper leg is bleeding^7"
+
+REFERENCE           LEFTLEGLOW
+LANG_ENGLISH        "Your Left Lower leg is bleeding^7"
+
+REFERENCE           RIGHTLEGLOW
+LANG_ENGLISH        "Your Right Lower leg is bleeding^7"
+
+REFERENCE           LEFTFOOT
+LANG_ENGLISH        "Your Left Foot is bleeding^7"
+
+REFERENCE           RIGHTFOOT
+LANG_ENGLISH        "Your Right Foot is bleeding^7"
+
+REFERENCE           LEFTARMUP
+LANG_ENGLISH        "Your Left Upper Arm is bleeding^7"
+
+REFERENCE           RIGHTARMUP
+LANG_ENGLISH        "Your Right Upper Arm is bleeding^7"
+
+REFERENCE           LEFTARMLOW
+LANG_ENGLISH        "Your Left Lower Arm is bleeding^7"
+
+REFERENCE           RIGHTARMLOW
+LANG_ENGLISH        "Your Right Lower Arm is bleeding^7"
+
+REFERENCE           LEFTHAND
+LANG_ENGLISH        "^1Your left hand is bleeding"
+
+REFERENCE           RIGHTHAND
+LANG_ENGLISH        "^1Your right hand is bleeding"
+
+REFERENCE           CRUSH
+LANG_ENGLISH        "You have been Crushed^7"
+
+REFERENCE           EXPLOSIVE
+LANG_ENGLISH        "You were wounded by an Explosion^7"
+
+REFERENCE           IMPACT
+LANG_ENGLISH        "You were hit and bleeding^7"
+
+REFERENCE           FALLING
+LANG_ENGLISH        "You fell too far!^7"
+
+REFERENCE           DEFAULT
+LANG_ENGLISH        "Watch yourself.  Your Bleeding!^7"
+
+REFERENCE           BLEEDINGSTOPPED
+LANG_ENGLISH        "You have stopped the bleeding^7"
+
+REFERENCE           PROJECTILE	
+LANG_ENGLISH        "You have been hit with flying debris!^7"
+
+ENDMARKER

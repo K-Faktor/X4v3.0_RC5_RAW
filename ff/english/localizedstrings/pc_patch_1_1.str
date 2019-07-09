@@ -1,0 +1,11 @@
+// COD4 download redirection string file with eXtreme+ modifications
+
+REFERENCE           UNEXPECTEDDOWNLOADMESSAGE
+LANG_ENGLISH        "Unexpected www download message."
+
+REFERENCE           DOWNLOADDISCONNECTED
+LANG_ENGLISH        "... is gathering their gear."
+
+ENDMARKER
+
+

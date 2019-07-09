@@ -1,0 +1,27 @@
+// eXteme+ ammocrates string file
+
+REFERENCE		DENY_AMERICAN
+LANG_ENGLISH	"^1You cannot rearm from Marine ammo crates^7"
+
+REFERENCE		DENY_BRITISH
+LANG_ENGLISH	"^1You cannot rearm from SAS ammo crates^7"
+
+REFERENCE		DENY_RUSSIAN
+LANG_ENGLISH	"^1You cannot rearm from Spetz ammo crates^7"
+
+REFERENCE		DENY_GERMAN
+LANG_ENGLISH	"^1You cannot rearm from OpFor ammo crates^7"
+
+REFERENCE		ACTIVATE
+LANG_ENGLISH	"^2Hold down the USE key to rearm^7"
+
+REFERENCE		REARMING_WEAPONS
+LANG_ENGLISH	"^2Rearming weapons..."
+
+REFERENCE		REARMING_GRENADES
+LANG_ENGLISH	"^2Rearming grenades..."
+
+REFERENCE		REARMING_FIRSTAID
+LANG_ENGLISH	"^2Rearming firstaid..."
+
+ENDMARKER

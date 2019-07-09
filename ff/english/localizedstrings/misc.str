@@ -1,0 +1,45 @@
+// eXtreme+ misc string file
+
+REFERENCE           BLANK_LINE_TXT
+LANG_ENGLISH        " "
+
+REFERENCE           RANGE_YARDS
+LANG_ENGLISH        "^2Yards^7: "
+
+REFERENCE           RANGE_METERS
+LANG_ENGLISH        "^2Meters^7: "
+
+REFERENCE           SPAWNPRO
+LANG_ENGLISH        "^3Spawn Protection ENABLED"
+
+REFERENCE           CALLVOTE_WAITDELAY
+LANG_ENGLISH        "Voting is ^1DELAYED^7 (waiting for other players)"
+
+REFERENCE           CALLVOTE_DELAY
+LANG_ENGLISH        "Voting is ^1DELAYED^7 for &&1 seconds"
+
+REFERENCE           CALLVOTE_TMPENABLED
+LANG_ENGLISH        "Voting is ^2ENABLED^7 for &&1 seconds"
+
+REFERENCE           CALLVOTE_ENABLED
+LANG_ENGLISH        "Voting is ^2ENABLED"
+
+REFERENCE           CALLVOTE_TMPDISABLED
+LANG_ENGLISH        "Voting is ^1DISABLED^7 for &&1 seconds"
+
+REFERENCE           CALLVOTE_DISABLED
+LANG_ENGLISH        "Voting is ^1DISABLED"
+
+REFERENCE           CTF
+LANG_ENGLISH        "Gain points by stealing the enemy flag and then touching your flag at your base."
+
+REFERENCE           CTF_SCORE
+LANG_ENGLISH        "Gain points by stealing the enemy flag and then touching your flag at your base. First team with &&1 captures wins."
+
+REFERENCE           CTF_HINT
+LANG_ENGLISH        "Capture the enemy flag."
+
+REFERENCE           HTF_HINT
+LANG_ENGLISH        "Capture the flags and hold them for as long as possible."
+
+ENDMARKER

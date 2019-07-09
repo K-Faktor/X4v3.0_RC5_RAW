@@ -1,0 +1,30 @@
+// eXtreme+ map rotation string file
+
+REFERENCE			RANDOM
+LANG_ENGLISH		" uses a random map rotation"
+
+REFERENCE			PLAYER
+LANG_ENGLISH		" uses a player based map rotation"
+
+REFERENCE			NORMAL
+LANG_ENGLISH		" uses a normal map rotation"
+
+REFERENCE			VOTING
+LANG_ENGLISH		" uses the ^3e^1X^3treme^2+ ^7map voting system"
+
+REFERENCE			NEXT_MAP
+LANG_ENGLISH		" ^7will be played next"
+
+REFERENCE			NEXT_GT
+LANG_ENGLISH		"Next gametype is "
+
+REFERENCE			TITLE
+LANG_ENGLISH		"Map rotation is (custom maps are green)"
+
+REFERENCE			CUSTOM_NEXT
+LANG_ENGLISH		"Next map is a custom map; you may need to download it!"
+
+REFERENCE			ERROR
+LANG_ENGLISH		"^1ERROR IN MAP ROTATION!"
+
+ENDMARKER

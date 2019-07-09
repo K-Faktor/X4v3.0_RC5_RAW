@@ -1,0 +1,81 @@
+// eXtreme+ killing spree string file
+
+REFERENCE			HAS_SAVED_ALL_OUR_ASSES_FROM
+LANG_ENGLISH		"&&1^7 has saved all our asses from"
+
+REFERENCE			HAS_SAVED_US_ALL_FROM
+LANG_ENGLISH		"&&1^7 has saved us all from"
+
+REFERENCE			HAS_STOPPED_THE_UNSTOPPABLE
+LANG_ENGLISH		"&&1^7 has stopped the unstoppable"
+
+REFERENCE			HAS_STOPPED
+LANG_ENGLISH		"&&1^7 has stopped"
+
+REFERENCE			ANAL_RAPE
+LANG_ENGLISH		"&&1^7's 'unbelievable' killing spree!"
+
+REFERENCE			UNHOLY
+LANG_ENGLISH		"&&1^7's 'unholy' killing spree!"
+
+REFERENCE			CRUSADE
+LANG_ENGLISH		"&&1^7's 'crusade' of a killing spree!"
+
+REFERENCE			UNREAL
+LANG_ENGLISH		"&&1^7's 'unreal' killing spree!"
+
+REFERENCE			FLUKISH
+LANG_ENGLISH		"&&1^7's 'flukish' killing spree!"
+
+REFERENCE			PLURAL
+LANG_ENGLISH		"&&1^7's killing spree. Hallelujah!"
+
+REFERENCE			MSG_5
+LANG_ENGLISH		"&&1^7 is on a killing spree (5 kills in a row)"
+
+REFERENCE			MSG_10
+LANG_ENGLISH		"&&1^7 is dominating (10 kills in a row)"
+
+REFERENCE			MSG_15
+LANG_ENGLISH		"&&1^7 is on the rampage (15 kills in a row)"
+
+REFERENCE			MSG_20
+LANG_ENGLISH		"&&1^7 is unstoppable (20 kills in a row)"
+
+REFERENCE			MSG_25
+LANG_ENGLISH		"&&1^7 is a monster killer (25 kills in a row)"
+
+REFERENCE			MSG_30
+LANG_ENGLISH		"&&1^7 must be using a bot (30+ kills in a row)"
+
+REFERENCE			KILLSPREE_PMSG
+LANG_ENGLISH		"^2K I L L I N G S P R E E!"
+
+REFERENCE			DOMINATING_PMSG
+LANG_ENGLISH		"^2D O M I N A T I N G!"
+
+REFERENCE			RAMPAGE_PMSG
+LANG_ENGLISH		"^2R A M P A G E!"
+
+REFERENCE			UNSTOPPABLE_PMSG
+LANG_ENGLISH		"^2U N S T O P P A B L E!"
+
+REFERENCE			MONSTER_KILL_PMSG
+LANG_ENGLISH		"^2M O N S T E R K I L L!"
+
+REFERENCE			ULTRA_KILL_PMSG
+LANG_ENGLISH		"^2U L T R A K I L L!"
+
+REFERENCE			GODLIKE_PMSG
+LANG_ENGLISH		"^2G O D L I K E!"
+
+REFERENCE			KILLINGMACHINE_PMSG
+LANG_ENGLISH		"^2K I L L I N G M A C H I N E!"
+
+REFERENCE			JUGGERNAUT_PMSG
+LANG_ENGLISH		"^2J U G G E R N A U T!"
+
+REFERENCE			HAS_KILLED_TEAM_MATE
+LANG_ENGLISH		"&&1^7 has killed a teammate!"
+
+ENDMARKER

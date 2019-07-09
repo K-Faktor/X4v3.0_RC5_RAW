@@ -1,0 +1,117 @@
+// eXtreme+ command monitor string file
+
+REFERENCE           DISABLEWEAPONS
+LANG_ENGLISH        "Your weapons have been ^1DISABLED^7 by the admin"
+
+REFERENCE           DISABLEWEAPONSB
+LANG_ENGLISH        "&&1^7's weapons were ^1DISABLED^7 by the admin"
+
+REFERENCE           ENABLEWEAPONS
+LANG_ENGLISH        "Your weapons have been ^2ENABLED^7 by the admin"
+
+REFERENCE           ENABLEWEAPONSB
+LANG_ENGLISH        "&&1^7's weapons were ^2ENABLED^7 by the admin"
+
+REFERENCE           WARP
+LANG_ENGLISH        "You are being ^1WARPED^7 into the air by the admin"
+
+REFERENCE           WARPB
+LANG_ENGLISH        "&&1^7 is being ^1WARPED^7 into the air by the admin"
+
+REFERENCE           LOCK
+LANG_ENGLISH        "You were ^1LOCKED^7 by the admin"
+
+REFERENCE           LOCKB
+LANG_ENGLISH        "&&1^7 was ^1LOCKED^7 by the admin"
+
+REFERENCE           UNLOCK
+LANG_ENGLISH        "You were ^2UNLOCKED^7 by the admin"
+
+REFERENCE           UNLOCKB
+LANG_ENGLISH        "&&1^7 was ^2UNLOCKED^7 by the admin"
+
+REFERENCE           SUICIDE
+LANG_ENGLISH        "You were forced to commit ^1SUICIDED^7 by the admin"
+
+REFERENCE           SUICIDEB
+LANG_ENGLISH        "&&1^7 was forced to commit ^1SUICIDED^7 by the admin"
+
+REFERENCE           SMITE
+LANG_ENGLISH        "You were ^1SMITED^7 by the admin"
+
+REFERENCE           SMITEB
+LANG_ENGLISH        "&&1^7 was ^1SMITED^7 by the admin"
+
+REFERENCE           TORCH
+LANG_ENGLISH        "You were ^1TORCHED^7 by the admin"
+
+REFERENCE           TORCHB
+LANG_ENGLISH        "&&1^7 was ^1TORCHED^7 by the admin"
+
+REFERENCE           FIRE
+LANG_ENGLISH        "You were set on ^1FIRE^7 by the admin"
+
+REFERENCE           FIREB
+LANG_ENGLISH        "&&1^7 was set on ^1FIRE^7 by the admin"
+
+REFERENCE           SPANK
+LANG_ENGLISH        "You were ^1SPANKED^7 by the admin"
+
+REFERENCE           SPANKB
+LANG_ENGLISH        "&&1^7 was ^1SPANKED^7 by the admin"
+
+REFERENCE           ARTY_SELF
+LANG_ENGLISH        "You are about to be ^1BOMBED^7 by the admin"
+
+REFERENCE           ARTY_ALL
+LANG_ENGLISH        "&&1^7 is being ^1BOMBED^7 by the admin"
+
+REFERENCE           ARTY_SELF_RUN
+LANG_ENGLISH        "^1RUN! RUN! RUN!"
+
+REFERENCE           SWITCHSIDES
+LANG_ENGLISH        "&&1^7 was moved to a ^1DIFFERENT TEAM^7 by the admin"
+
+REFERENCE           SWITCHSIDESB
+LANG_ENGLISH        "You have been moved to a ^1DIFFERENT TEAM^7 by the admin"
+
+REFERENCE           ENDMAP
+LANG_ENGLISH        "This map is being ^1ENDED^7 by the admin"
+
+REFERENCE           CHICKEN
+LANG_ENGLISH        "You were turned into a ^1CHICKEN^7 by the admin"
+
+REFERENCE           CHICKENB
+LANG_ENGLISH        "&&1 was turned into a ^1CHICKEN^7 by the admin"
+
+REFERENCE           SODA
+LANG_ENGLISH        "You were turned into a ^1SODA MACHINE^7 by the admin"
+
+REFERENCE           SODAB
+LANG_ENGLISH        "&&1 was turned into a ^1SODA MACHINE^7 by the admin"
+
+REFERENCE           PIANO
+LANG_ENGLISH        "You were turned into a ^1PIANO^7 by the admin"
+
+REFERENCE           PIANOB
+LANG_ENGLISH        "&&1 was turned into a ^1PIANO^7 by the admin"
+
+REFERENCE           TOILET
+LANG_ENGLISH        "You were turned into a ^1TOILET^7 by the admin"
+
+REFERENCE           TOILETB
+LANG_ENGLISH        "&&1 was turned into a ^1TOILET^7 by the admin"
+
+REFERENCE           TREE
+LANG_ENGLISH        "You were turned into a ^1TREE^7 by the admin"
+
+REFERENCE           TREEB
+LANG_ENGLISH        "&&1 was turned into a ^1TREE^7 by the admin"
+
+REFERENCE           TOMBSTONE
+LANG_ENGLISH        "You were turned into a ^1TOMBSTONE^7 by the admin"
+
+REFERENCE           TOMBSTONEB
+LANG_ENGLISH        "&&1 was turned into a ^1TOMBSTONE^7 by the admin"
+
+ENDMARKER

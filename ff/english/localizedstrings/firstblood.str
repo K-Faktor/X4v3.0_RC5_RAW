@@ -1,0 +1,21 @@
+// eXtreme+ first blood string file
+
+REFERENCE			REPORT_ALL
+LANG_ENGLISH		"^2FIRST BLOOD GOES TO:^7 "
+
+REFERENCE			REPORT_SELF
+LANG_ENGLISH		"^1YOU ARE THE FIRST BLOOD!"
+
+REFERENCE			VICTIM
+LANG_ENGLISH		"The victim was "
+
+REFERENCE			VICTIM_TEAM_MATE
+LANG_ENGLISH		"The fool killed his teammate "
+
+REFERENCE			VICTIM_SELF
+LANG_ENGLISH		"Player committed suicide!"
+
+REFERENCE			PICKEDUP
+LANG_ENGLISH		"You just picked up a Firstaid Kit"
+
+ENDMARKER

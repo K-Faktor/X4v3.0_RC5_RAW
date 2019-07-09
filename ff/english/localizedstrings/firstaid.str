@@ -1,0 +1,21 @@
+// eXtreme+ first aid string file
+
+REFERENCE           ISUSING
+LANG_ENGLISH        "&&1^7 applied first aid...^7"
+
+REFERENCE           FIXEDUP
+LANG_ENGLISH        "&&1^7 has received first aid from &&2^7"
+
+REFERENCE           MAXHEALTH
+LANG_ENGLISH        "You are at Maximum Health^7"
+
+REFERENCE           HEALINGFINISHED
+LANG_ENGLISH        "You have finished healing^7"
+
+REFERENCE           PICKEDUP
+LANG_ENGLISH        "You have picked up another Medikit^7"
+
+REFERENCE           HINT
+LANG_ENGLISH        "^2Press the USE key to Heal^7"
+
+ENDMARKER

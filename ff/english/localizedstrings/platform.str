@@ -1,0 +1,49 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd_PC.cfg"
+FILENOTES           ""
+
+
+REFERENCE           STANCEHINT_STAND
+LANG_ENGLISH        "Press^3 &&1 ^7to stand"
+
+REFERENCE           STANCEHINT_CROUCH
+LANG_ENGLISH        "Press^3 &&1 ^7to crouch"
+
+REFERENCE           STANCEHINT_PRONE
+LANG_ENGLISH        "Press^3 &&1 ^7to go prone"
+
+REFERENCE           SWAPWEAPONS
+LANG_ENGLISH        "Press^3 &&1 ^7to swap for"
+
+REFERENCE           MANTLE
+LANG_ENGLISH        "Press^3 &&1 ^7to  "
+
+REFERENCE           HOLD_BREATH
+LANG_ENGLISH        "Hold^3 &&1 ^7to steady"
+
+REFERENCE           PICKUPNEWWEAPON
+LANG_ENGLISH        "Press^3 &&1 ^7to pick up"
+
+REFERENCE           THROWBACKGRENADE
+LANG_ENGLISH        "^3&&1 ^7throw back"
+
+REFERENCE           HOLD_TO_USE
+LANG_ENGLISH        "Press^3 &&1 ^7to use"
+
+REFERENCE           HOLD_TO_DROP
+LANG_ENGLISH        "Press^3 &&1 ^7to drop"
+
+ENDMARKER
+
+

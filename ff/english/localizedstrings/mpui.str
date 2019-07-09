@@ -1,0 +1,102 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           BOG
+LANG_ENGLISH        "Bog"
+
+REFERENCE           SABOTAGE
+LANG_ENGLISH        "^1X^24 ^7Sabotage"
+
+REFERENCE           DEATHMATCH
+LANG_ENGLISH        "^1X^24 ^7Free-for-all"
+
+REFERENCE           TEAM_DEATHMATCH
+LANG_ENGLISH        "^1X^24 ^7Team Deathmatch"
+
+REFERENCE           CAPTURE_THE_FLAG
+LANG_ENGLISH        "^1X^24 ^7Capture the Flag"
+
+REFERENCE           HEADQUARTERS
+LANG_ENGLISH        "^1X^24 ^7Headquarters"
+
+REFERENCE           SEARCH_AND_DESTROY
+LANG_ENGLISH        "^1X^24 ^7Search and Destroy"
+
+REFERENCE           WAR
+LANG_ENGLISH        "^1X^24 ^7Team Deathmatch"
+
+REFERENCE           DOMINATION
+LANG_ENGLISH        "^1X^24 ^7Domination"
+
+REFERENCE           KING_OF_THE_HILL
+LANG_ENGLISH        "^1X^24^7King of the Hill"
+
+REFERENCE           WAR_HARDCORE
+LANG_ENGLISH        "^1X^24^7Hardcore Team Deathmatch"
+
+REFERENCE           DM_HARDCORE
+LANG_ENGLISH        "^1X^24^7Hardcore Free-for-all"
+
+REFERENCE           CHOOSE_MODEL_CAP
+LANG_ENGLISH        "CHOOSE MODEL"
+
+REFERENCE           CHANGE_MODEL
+LANG_ENGLISH        "Change Model"
+
+REFERENCE           DEFAULT_MODELS
+LANG_ENGLISH        "Default Models"
+
+REFERENCE           ADDITIONAL_MODELS
+LANG_ENGLISH        "Additional Models"
+
+REFERENCE           MODEL1
+LANG_ENGLISH        "Assault"
+
+REFERENCE           MODEL2
+LANG_ENGLISH        "Spec Ops"
+
+REFERENCE           MODEL3
+LANG_ENGLISH        "Heavy Gunner"
+
+REFERENCE           MODEL4
+LANG_ENGLISH        "Demolitions"
+
+REFERENCE           MODEL5
+LANG_ENGLISH        "Sniper"
+
+REFERENCE           MODEL0
+LANG_ENGLISH        "Restore Defaults"
+
+REFERENCE           MODEL6
+LANG_ENGLISH        "Female Pilot"
+
+REFERENCE           MODEL_FARMER
+LANG_ENGLISH        "Russian Farmer"
+
+REFERENCE           MODEL_ZAKHAEV
+LANG_ENGLISH        "Imran Zakhaev"
+
+REFERENCE           MODEL_ALASAD
+LANG_ENGLISH        "Khaled Al-Asad"
+
+REFERENCE           MODEL_PRICE
+LANG_ENGLISH        "Capt. Price"
+
+REFERENCE           MODEL_GHILLIE
+LANG_ENGLISH        "Ghillie Suit"
+
+ENDMARKER
+
+

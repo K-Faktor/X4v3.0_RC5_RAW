@@ -1,0 +1,42 @@
+// eXtreme+ unknown soldier string file
+
+REFERENCE           MSG_UNACCEPTABLE
+LANG_ENGLISH        "&&1^7 is an ^1UNACCEPTABLE NAME"
+
+REFERENCE           MSG_TEMPORARY
+LANG_ENGLISH        "&&1^7 is a ^1TEMPORARY NAME"
+
+REFERENCE           MSG_CHANGEIT
+LANG_ENGLISH        "Please change your name now!"
+
+REFERENCE           MSG_CLANGUEST
+LANG_ENGLISH        "Otherwise a new name will be assigned in ^1&&1^7 seconds..."
+
+REFERENCE           MSG_GUEST
+LANG_ENGLISH        "You have ^1&&1^7 seconds to comply..."
+
+REFERENCE           NEWNAME_BYSERVER
+LANG_ENGLISH        "The server has changed your name!"
+
+REFERENCE           NEWNAME_CLANGUEST
+LANG_ENGLISH        "You are now known as ^2"
+
+REFERENCE           NEWNAME_GUEST
+LANG_ENGLISH        "Your new name is ^2"
+
+REFERENCE           NEWNAME_CHANGEIT
+LANG_ENGLISH        "You now have ^1&&1^7 seconds to change it!"
+
+REFERENCE           STILL_PUNISH
+LANG_ENGLISH        "Until you do so, you will be punished..."
+
+REFERENCE           STILL_RELIEF1
+LANG_ENGLISH        "You can continue to play as normal now, but..."
+
+REFERENCE           STILL_RELIEF2
+LANG_ENGLISH        "It all starts again when you get killed"
+
+REFERENCE           MSG_THANKS
+LANG_ENGLISH        "Thanks for changing your name ^2"
+
+ENDMARKER

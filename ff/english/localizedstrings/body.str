@@ -1,0 +1,133 @@
+REFERENCE           M16A4
+LANG_ENGLISH        "You found an M16A4"
+
+REFERENCE           AK47
+LANG_ENGLISH        "You found an AK47"
+
+REFERENCE           M4A1
+LANG_ENGLISH        "You found an M4A1"
+
+REFERENCE           G3
+LANG_ENGLISH        "You found a G3"
+
+REFERENCE           G36C
+LANG_ENGLISH        "You found a G36C"
+
+REFERENCE           M14
+LANG_ENGLISH        "You found an M14"
+
+REFERENCE           MP44
+LANG_ENGLISH        "You found an MP44"
+
+REFERENCE           M16A4_GL
+LANG_ENGLISH        "You found an M16A4-GL"
+
+REFERENCE           AK47_GL
+LANG_ENGLISH        "You found an AK47-GL"
+
+REFERENCE           M4A1_GL
+LANG_ENGLISH        "You found an M4A1-GL"
+
+REFERENCE           G3_GL
+LANG_ENGLISH        "You found a G3-GL"
+
+REFERENCE           G36C_GL
+LANG_ENGLISH        "You found an G36C-GL"
+
+REFERENCE           M14_GL
+LANG_ENGLISH        "You found an M14-GL"
+
+REFERENCE           MP5
+LANG_ENGLISH        "You found an MP5"
+
+REFERENCE           SKORPION
+LANG_ENGLISH        "You found a Skorpion"
+
+REFERENCE           MINIUZI
+LANG_ENGLISH        "You found a Mini-Uzi"
+
+REFERENCE           AK47U
+LANG_ENGLISH        "You found an AK47U"
+
+REFERENCE           P90
+LANG_ENGLISH        "You found a P90"
+
+REFERENCE           M249_SAW
+LANG_ENGLISH        "You found an M249 SAW"
+
+REFERENCE           RPG
+LANG_ENGLISH        "You found a RPG"
+
+REFERENCE           M60E4
+LANG_ENGLISH        "You found an M60E4"
+
+REFERENCE           M1014
+LANG_ENGLISH        "You found an M1014"
+
+REFERENCE           W1200
+LANG_ENGLISH        "You found a W1200"
+
+REFERENCE           DRAGUNOV
+LANG_ENGLISH        "You found a Dragunov"
+
+REFERENCE           M40A3
+LANG_ENGLISH        "You found an M40A3"
+
+REFERENCE           BARRETT
+LANG_ENGLISH        "You found a Barrett .50cal"
+
+REFERENCE           R700
+LANG_ENGLISH        "You found a R700"
+
+REFERENCE           M21
+LANG_ENGLISH        "You found an M21"
+
+REFERENCE           AK47_GL
+LANG_ENGLISH        "You found an AK47-GL"
+
+REFERENCE           G36C_GL
+LANG_ENGLISH        "You found a G36C-GL"
+
+REFERENCE           G3_GL
+LANG_ENGLISH        "You found a G3-GL"
+
+REFERENCE           M14_GL
+LANG_ENGLISH        "You found an M14-GL"
+
+REFERENCE           M16A4_GL
+LANG_ENGLISH        "You found a M16A4-GL"
+
+REFERENCE           M4A1_GL
+LANG_ENGLISH        "You found an M4A1-GL"
+
+REFERENCE           GRENADELAUNCH
+LANG_ENGLISH        "You found a Grenade Launcher"
+
+REFERENCE           BERETTA
+LANG_ENGLISH        "You found a Beretta"
+
+REFERENCE           COLT45
+LANG_ENGLISH        "You found a Colt45"
+
+REFERENCE           USP
+LANG_ENGLISH        "You found an USP"
+
+REFERENCE           EAGLE
+LANG_ENGLISH        "You found a Desert Eagle"
+
+REFERENCE           FRAG
+LANG_ENGLISH        "You found a frag grenade"
+
+REFERENCE           CONCUSS
+LANG_ENGLISH        "You found a concussion grenade"
+
+REFERENCE           FLASH
+LANG_ENGLISH        "You found a flash grenade"
+
+REFERENCE           SMOKE
+LANG_ENGLISH        "You found a smoke grenade"
+
+REFERENCE           HEALTH
+LANG_ENGLISH        "You found a health pack"
+
+ENDMARKER

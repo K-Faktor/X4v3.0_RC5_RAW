@@ -1,0 +1,420 @@
+// eXtreme+ obituary string file
+
+REFERENCE					FATALITY
+LANG_ENGLISH				"^1F A T A L I T Y!"
+
+REFERENCE					HEADSHOT
+LANG_ENGLISH				"^1H E A D S H O T!"
+
+REFERENCE					HUMILIATION
+LANG_ENGLISH				"^1H U M I L I A T I O N!"
+
+REFERENCE					ROADKILL
+LANG_ENGLISH				"^1R O A D K I L L!"
+
+REFERENCE					KNOCKED
+LANG_ENGLISH				"^1K N O C K E D!"
+
+REFERENCE					WAS_KILLED_BY
+LANG_ENGLISH				"&&1^7 was killed by"
+
+REFERENCE					HAS_BEEN_KILLED
+LANG_ENGLISH				"&&1^7 has been killed from a"
+
+REFERENCE					WITH_CAR
+LANG_ENGLISH				"&&1^7 with an explosing car!"
+
+REFERENCE					WITH_M203
+LANG_ENGLISH				"&&1^7 with an m203 grenade!"
+
+REFERENCE					WITH_C4
+LANG_ENGLISH				"&&1^7 with a c4 charge!"
+
+REFERENCE					WITH_SAW
+LANG_ENGLISH				"&&1^7 with a m249 saw!"
+
+REFERENCE					WITH_CLAYMORE
+LANG_ENGLISH				"&&1^7 with a claymore!"
+
+REFERENCE					WITH_A_GRENADE
+LANG_ENGLISH				"&&1^7 with a frag grenade!"
+
+REFERENCE					WITH_ARTILLERY
+LANG_ENGLISH				"&&1^7 using artillery!"
+
+REFERENCE					WITH_AIRSTRIKE
+LANG_ENGLISH				"&&1^7 using an airstrike!"
+
+REFERENCE					WITH_HELOSTRIKE
+LANG_ENGLISH				"&&1^7 using a helicopter strike!"
+
+REFERENCE					WITH_AC130
+LANG_ENGLISH				"&&1^7 using an AC130!"
+
+REFERENCE					WITH_NAPALM
+LANG_ENGLISH				"&&1^7 using Napalm!"
+
+REFERENCE					WITH_NUKE
+LANG_ENGLISH				"&&1^7 using a Nuke!"
+
+REFERENCE					WITH_KNIFE
+LANG_ENGLISH				"&&1^7 using a combat knife!"
+
+REFERENCE					WITH_TRIPWIRE
+LANG_ENGLISH				"&&1^7 using a tripwire!"
+
+REFERENCE					WITH_RPG
+LANG_ENGLISH				"&&1^7 using a rpg!"
+
+REFERENCE					WITH_LANDMINE
+LANG_ENGLISH				"&&1^7 using a landmine!"
+
+REFERENCE					RANGE_USING
+LANG_ENGLISH				"&&1^7 using &&2"
+
+REFERENCE					KILLED_HITLOC
+LANG_ENGLISH				"&&1^7 was killed by a hit to the &&2"
+
+REFERENCE					YARDS
+LANG_ENGLISH				"from a distance of &&1 yards"
+
+REFERENCE					METRES
+LANG_ENGLISH				"from a distance of &&1 metres"
+
+REFERENCE					CLOSE_RANGE
+LANG_ENGLISH				"at close range by &&1"
+
+REFERENCE					USING_WEAPON
+LANG_ENGLISH				"using &&1"
+
+REFERENCE					USING_BUTT
+LANG_ENGLISH				"&&1^7 using the butt of &&2"
+
+REFERENCE					ATTACKER_WEAPON
+LANG_ENGLISH				"by &&1^7 using &&2,"
+
+REFERENCE					USING
+LANG_ENGLISH				"&&1^7 using &&2"
+
+REFERENCE					KNIFE_WHIP
+LANG_ENGLISH				"&&1^7 got sliced up by"
+
+REFERENCE					KNIFE_WHIP_PMSG
+LANG_ENGLISH				"You got sliced up!"
+
+REFERENCE					KNIFE_WHIP_TK
+LANG_ENGLISH				"&&1^7 got sliced up by teammate"
+
+REFERENCE					KNIFE_WHIP_TK_PMSG
+LANG_ENGLISH				"You got sliced up by a teammate!"
+
+REFERENCE					UNKNOWN_MSG_0
+LANG_ENGLISH				"&&1^7 has died!"
+
+REFERENCE					UNKNOWN_MSG_1
+LANG_ENGLISH				"&&1^7 died in the call of duty!"
+
+REFERENCE					UNKNOWN_MSG_2
+LANG_ENGLISH				"&&1^7 has gone to heaven...or hell?"
+
+REFERENCE					UNKNOWN_PMSG
+LANG_ENGLISH				"You have died. RIP!"
+
+REFERENCE					FALLING_MSG_0
+LANG_ENGLISH				"&&1^7 has fallen to death!"
+
+REFERENCE					FALLING_MSG_1
+LANG_ENGLISH				"&&1^7 is a bad judge of height!"
+
+REFERENCE					FALLING_MSG_2
+LANG_ENGLISH				"&&1^7 took one giant leap for mankind!"
+
+REFERENCE					FALLING_PMSG
+LANG_ENGLISH				"You have fallen to your death!"
+
+REFERENCE					PLANE_MSG_0
+LANG_ENGLISH				"&&1^7 was too close to the plane crash!"
+
+REFERENCE					PLANE_MSG_1
+LANG_ENGLISH				"&&1^7 didn't miss the flight!"
+
+REFERENCE					PLANE_PMSG
+LANG_ENGLISH				"You were too close to the plane crash!"
+
+REFERENCE					PLANE_BOMB_MSG_0
+LANG_ENGLISH				"&&1^7 was killed in a bomb blast!"
+
+REFERENCE					PLANE_BOMB_MSG_1
+LANG_ENGLISH				"&&1^7 died in the airstrike!"
+
+REFERENCE					PLANE_BOMB_PMSG
+LANG_ENGLISH				"You were killed by a bomb!"
+
+REFERENCE					HELOSTRIKESELF_MSG_0
+LANG_ENGLISH				"&&1^7 was killed by own helicopter strike"
+
+REFERENCE					AIRSTRIKESELF_MSG_0
+LANG_ENGLISH				"&&1^7 was killed by own airstrike"
+
+REFERENCE					AIRSTRIKE_PMSG
+LANG_ENGLISH				"You were killed by an airstrike!"
+
+REFERENCE					AIRSTRIKETK_PMSG
+LANG_ENGLISH				"Your own teammate's airstrike got you!"
+
+REFERENCE					AIRSTRIKESELF_PMSG
+LANG_ENGLISH				"Killed by your own airstrike!"
+
+REFERENCE					ARTILLERYSELF_MSG_0
+LANG_ENGLISH				"&&1^7 was killed by own artillery"
+
+REFERENCE					ARTILLERY_PMSG
+LANG_ENGLISH				"You were killed by artillery!"
+
+REFERENCE					ARTILLERTK_PMSG
+LANG_ENGLISH				"Your own teammate's artillery got you!"
+
+REFERENCE					ARTILLERYSELF_PMSG
+LANG_ENGLISH				"Killed by your own artillery!"
+
+REFERENCE					PNAPALM_MSG_0
+LANG_ENGLISH				"&&1^7 was burned by"
+
+REFERENCE					PNAPALM_MSG_1
+LANG_ENGLISH				"&&1^7 was scorched thanks to"
+
+REFERENCE					NAPALMTK_MSG_0
+LANG_ENGLISH				"&&1^7 was burned to death by teammate"
+
+REFERENCE					NAPALMTK_MSG_1
+LANG_ENGLISH				"&&1^7 is dead thanks to teammate"
+
+REFERENCE					NAPALMSELF_MSG_0
+LANG_ENGLISH				"&&1^7 was killed by own Napalm"
+
+REFERENCE					NAPALM_PMSG
+LANG_ENGLISH				"You were burned to death by Napalm!"
+
+REFERENCE					NAPALMTK_PMSG
+LANG_ENGLISH				"Your own teammate's Napalm burned you!"
+
+REFERENCE					NAPALMSELF_PMSG
+LANG_ENGLISH				"Killed by your own napalm!"
+
+REFERENCE					PNUKE_MSG_0
+LANG_ENGLISH				"&&1^7 was nuked by"
+
+REFERENCE					PNUKE_MSG_1
+LANG_ENGLISH				"&&1^7 was nuked thanks to"
+
+REFERENCE					NUKETK_MSG_0
+LANG_ENGLISH				"&&1^7 was nuked to death by teammate"
+
+REFERENCE					NUKETK_MSG_1
+LANG_ENGLISH				"&&1^7 is dead thanks to teammate"
+
+REFERENCE					NUKESELF_MSG_0
+LANG_ENGLISH				"&&1^7 was killed by own Nuke"
+
+REFERENCE					NUKE_PMSG
+LANG_ENGLISH				"You were radiated to death by Nuke!"
+
+REFERENCE					NUKETK_PMSG
+LANG_ENGLISH				"Your own teammate's Nuke radiated you!"
+
+REFERENCE					NUKESELF_PMSG
+LANG_ENGLISH				"Killed by your own Nuke!"
+
+REFERENCE					EXPLOSIVE_MSG_0
+LANG_ENGLISH				"&&1^7 was blown to bits by"
+
+REFERENCE					EXPLOSIVE_MSG_1
+LANG_ENGLISH				"&&1^7 is in tiny pieces thanks to"
+
+REFERENCE					EXPLOSIVETK_MSG_0
+LANG_ENGLISH				"&&1^7 was blown to bits by teammate"
+
+REFERENCE					EXPLOSIVETK_MSG_1
+LANG_ENGLISH				"&&1^7 is in tiny pieces thanks to teammate"
+
+REFERENCE					EXPLOSIVE_PMSG
+LANG_ENGLISH				"You got blown to bits!"
+
+REFERENCE					LANDMINESELF_MSG_0
+LANG_ENGLISH				"&&1^7 tripped over own landmine"
+
+REFERENCE					EXPLOSIVETK_PMSG
+LANG_ENGLISH				"Your own teammate blew you to bits!"
+
+REFERENCE					TRIPWIRESELF_MSG_0
+LANG_ENGLISH				"&&1^7 tripped over own tripwire"
+
+REFERENCE					TRIPWIRE_PMSG
+LANG_ENGLISH				"You were killed by a tripwire!"
+
+REFERENCE					TRIPWIRETK_PMSG
+LANG_ENGLISH				"You found your teammates tripwire!"
+
+REFERENCE					TRIPWIRESELF_PMSG
+LANG_ENGLISH				"You tripped over your own tripwire!"
+
+REFERENCE					MINEFIELD_MSG_0
+LANG_ENGLISH				"&&1^7 has walked into a minefield!"
+
+REFERENCE					MINEFIELD_MSG_1
+LANG_ENGLISH				"&&1^7 has taken a shortcut through a minefield!"
+
+REFERENCE					MINEFIELD_MSG_2
+LANG_ENGLISH				"&&1^7 took a stroll through a minefield!"
+
+REFERENCE					SELFNADE_MSG_0
+LANG_ENGLISH				"&&1^7 was blown to bits by own grenade!"
+
+REFERENCE					SELFNADE_MSG_1
+LANG_ENGLISH				"&&1^7 took up juggling with own grenades!"
+
+REFERENCE					SELFNADE_PMSG
+LANG_ENGLISH				"Throw the grenade further next time!"
+
+REFERENCE					SELFRPG_PMSG
+LANG_ENGLISH				"point the rpg away from your self next time!"
+
+REFERENCE					SELFNADE_PMSG
+LANG_ENGLISH				"Throw the grenade further next time!"
+
+REFERENCE					SELFNADES_MSG_1
+LANG_ENGLISH				"&&1^7 cooked the nade too long!"
+
+REFERENCE					SELFNADES_PMSG
+LANG_ENGLISH				"Next time throw the grenade!"
+
+REFERENCE					SELFKAMIKAZE_MSG_0
+LANG_ENGLISH				"&&1^7 finished being a suicide bomber!"
+
+REFERENCE					SELFKAMIKAZE_MSG_1
+LANG_ENGLISH				"&&1^7 did a suicide bombing!"
+
+REFERENCE					SELFKAMIKAZE_PMSG
+LANG_ENGLISH				"SUICIDE BOMB!"
+
+REFERENCE					MINEFIELD_PMSG
+LANG_ENGLISH				"Don't walk through minefields!"
+
+REFERENCE					SNIPER_MSG_0
+LANG_ENGLISH				"&&1^7 was sniper killed by"
+
+REFERENCE					SNIPER_MSG_1
+LANG_ENGLISH				"&&1^7 got shot by sniper"
+
+REFERENCE					SNIPER_PMSG
+LANG_ENGLISH				"You were taken out with a sniper rifle!"
+
+REFERENCE					SNIPER_TK_MSG_0
+LANG_ENGLISH				"&&1^7 was sniper killed by teammate"
+
+REFERENCE					SNIPER_TK_MSG_1
+LANG_ENGLISH				"&&1^7 got shot by sniper teammate"
+
+REFERENCE					SNIPER_TK_PMSG
+LANG_ENGLISH				"Your own teammate took you out with a sniper rifle!"
+
+REFERENCE					RPGTK_MSG_0
+LANG_ENGLISH				"&&1^7 was rpg to death by teammate"
+
+REFERENCE					BASHTK_MSG_0
+LANG_ENGLISH				"&&1^7 was beaten to death by teammate"
+
+REFERENCE					BASHTK_MSG_1
+LANG_ENGLISH				"&&1^7 got bashed to death by teammate"
+
+REFERENCE					BASHTK_PMSG
+LANG_ENGLISH				"You got bashed to death by your own teammate!"
+
+REFERENCE					BASHKILL_HEAD_PMSG
+LANG_ENGLISH				"You got smacked round the head!"
+
+REFERENCE					BASHKILL_PMSG
+LANG_ENGLISH				"You got bashed to death!"
+
+REFERENCE					TEAMKILL_MSG
+LANG_ENGLISH				"&&1^7 has been killed by teammate"
+
+REFERENCE					TEAMKILL_PMSG
+LANG_ENGLISH				"You were killed by your own teammate!"
+
+REFERENCE					HEADSHOT_TK_MSG_0
+LANG_ENGLISH				"&&1^7 was shot in the head by teammate"
+
+REFERENCE					HEADSHOT_TK_MSG_1
+LANG_ENGLISH				"&&1^7 died from a headshot, courtesy of teammate"
+
+REFERENCE					HEADSHOT_TK_PMSG
+LANG_ENGLISH				"Your own teammate shot you in the head!"
+
+REFERENCE					CAR_TK_PMSG
+LANG_ENGLISH				"You were teamkilled by an exploding car!"
+
+REFERENCE					RPG_TK_PMSG
+LANG_ENGLISH				"You were teamkilled by an rpg!"
+
+REFERENCE					RPGSELF_MSG_0
+LANG_ENGLISH				"Your were killed by an rpg!"
+
+REFERENCE					RPGSELF_PMSG
+LANG_ENGLISH				"Your were killed by an rpg!"
+
+REFERENCE					C4_TK_PMSG
+LANG_ENGLISH				"You were teamkilled by a c4 charge!"
+
+REFERENCE					C4SELF_MSG_0
+LANG_ENGLISH				"Your were killed by a c4 charge!"
+
+REFERENCE					C4SELF_PMSG
+LANG_ENGLISH				"Your were killed by a c4 charge!"
+
+REFERENCE					C4_TK_MSG_0
+LANG_ENGLISH				"&&1^7 was teamkilled by a c4 charge!"
+
+REFERENCE					M203_TK_PMSG
+LANG_ENGLISH				"You were teamkilled by a m203 grenade!"
+
+REFERENCE					M203SELF_MSG_0
+LANG_ENGLISH				"Your were killed by a m203 grenade!"
+
+REFERENCE					M203SELF_PMSG
+LANG_ENGLISH				"Your were killed by a m203 grenade!"
+
+REFERENCE					M203_TK_MSG_0
+LANG_ENGLISH				"&&1^7 was teamkilled by a m203 grenade!"
+
+REFERENCE					CLAYMORESELF_MSG_0
+LANG_ENGLISH				"Your were killed by a claymore!"
+
+REFERENCE					CLAYMORESELF_PMSG
+LANG_ENGLISH				"Your were killed by a claymore!"
+
+REFERENCE					CLAYMORE_TK_MSG_0
+LANG_ENGLISH				"&&1^7 was teamkilled by a claymore!"
+
+REFERENCE					CAR_TK_MSG_0
+LANG_ENGLISH				"&&1^7 was teamkilled by an exploding car!"
+
+REFERENCE					CARSELF_PMSG
+LANG_ENGLISH				"Your were killed by an exploding car!"
+
+REFERENCE					CARSELF_MSG_0
+LANG_ENGLISH				"&&1^7 was killed by an exploding car!"
+
+REFERENCE					SAW_TK_PMSG
+LANG_ENGLISH				"You were teamkilled by a m249 saw!"
+
+REFERENCE					SAWSELF_MSG_0
+LANG_ENGLISH				"Your were killed by a m249 saw!"
+
+REFERENCE					SAWSELF_PMSG
+LANG_ENGLISH				"Your were killed by a m249 saw!"
+
+REFERENCE					SAW_TK_MSG_0
+LANG_ENGLISH				"&&1^7 was teamkilled by a m249 saw!"
+
+ENDMARKER

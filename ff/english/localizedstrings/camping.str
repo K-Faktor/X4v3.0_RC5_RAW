@@ -1,0 +1,45 @@
+// eXtreme+ camping string file
+
+REFERENCE			WARNING_MESSAGE_SELF
+LANG_ENGLISH		"Move along now &&1^7, no camping here!"
+
+REFERENCE			MARKED_MESSAGE_SELF
+LANG_ENGLISH		"&&1^1, you're being marked for camping!"
+
+REFERENCE			MARKED_MESSAGE_ALL
+LANG_ENGLISH		"&&1^1 is being marked for camping"
+
+REFERENCE			TIME_MESSAGE_SELF
+LANG_ENGLISH		"This will last for &&1 seconds..."
+
+REFERENCE			TIME_MESSAGE_ALL
+LANG_ENGLISH		"for &&1 seconds..."
+
+REFERENCE			FART_MESSAGE_SELF
+LANG_ENGLISH		"&&1^1, you're being made to fart for camping!"
+
+REFERENCE			FART_MESSAGE_ALL
+LANG_ENGLISH		"&&1^1 is being made to fart for camping"
+
+REFERENCE			SHOCK_MESSAGE_SELF
+LANG_ENGLISH		"&&1^1, you're suffering from shell shock for camping!"
+
+REFERENCE			SHOCK_MESSAGE_ALL
+LANG_ENGLISH		"&&1^1 is suffering from shell shock for camping"
+
+REFERENCE			BLOWN_MESSAGE_SELF
+LANG_ENGLISH		"&&1^1, you are being blown up for camping!"
+
+REFERENCE			BLOWN_MESSAGE_ALL
+LANG_ENGLISH		"&&1^1 was blown up for camping"
+
+REFERENCE			SURVIVED_MESSAGE_SELF1
+LANG_ENGLISH		"Lady luck is on your side &&1^7"
+
+REFERENCE			SURVIVED_MESSAGE_SELF2
+LANG_ENGLISH		"You have survived being punished for camping!"
+
+REFERENCE			SURVIVED_MESSAGE_ALL
+LANG_ENGLISH		"&&1^7 has survived being punished for camping!"
+
+ENDMARKER

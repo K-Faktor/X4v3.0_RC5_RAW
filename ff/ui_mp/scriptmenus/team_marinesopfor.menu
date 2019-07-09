@@ -1,0 +1,172 @@
+#include "ui/menudef.h"
+#include "ui_mp/common_macro.inc"
+
+#define CHOICE_SIZE_X			150
+#define CHOICE_SIZE_Y			22
+
+#define CHOICE_X_START			0
+#define CHOICE_Y_START			204//180
+
+#define CHOICE_SEP_OFFSET_Y		-2
+
+#define CHOICE_SEP_1			3
+
+#define ORIGIN_MOTD_OFFSET			20 0
+#define ORIGIN_MOTD_TITLE			42 70
+#define ORIGIN_MOTD_FRAME			35 70
+#define ORIGIN_MOTD				37 90
+
+#include "ui_mp/menustyle.inc"
+#include "ui_mp/choices_setup_teams.menu"
+
+{
+	menuDef
+	{
+		name			"team_marinesopfor"
+		rect			0 0 640 480
+		focuscolor		COLOR_FOCUSED
+		style			WINDOW_STYLE_EMPTY
+		blurWorld		7.0
+		legacySplitScreenScale
+		onOpen
+		{
+			setfocus "auto_assign";
+			scriptMenuResponse "startmotd";
+		}
+		onEsc
+		{
+			scriptMenuResponse "back";
+		}
+
+		#ifndef PC
+		execkeyint BUTTON_START
+		{
+			close self;
+		}
+		#endif
+		
+		// background overlay
+		itemDef	{
+			style			WINDOW_STYLE_FILLED
+			rect			0 0 640 480 HORIZONTAL_ALIGN_FULLSCREEN VERTICAL_ALIGN_FULLSCREEN
+			backcolor		0 0 0 0.75 //0 0.05 0.15 0.5
+			visible			1
+			decoration
+		}
+		// gradient_top
+		itemDef	{
+			style			WINDOW_STYLE_SHADER
+			rect			0 0 854 75 HORIZONTAL_ALIGN_FULLSCREEN 0
+			background		"gradient_top"
+			visible			1
+			decoration
+		}
+		// gradient_bottom
+		itemDef	{
+			style			WINDOW_STYLE_SHADER
+			rect			0 405 854 75 HORIZONTAL_ALIGN_FULLSCREEN 0
+			background		"gradient_bottom"
+			visible			1
+			decoration
+		}
+
+		// ------------------ ROTATING MOTD ------------------
+		
+		itemDef
+		{
+			style			WINDOW_STYLE_FILLED
+			rect			ORIGIN_MOTD_FRAME 285 110
+			origin			ORIGIN_MOTD_OFFSET
+			backcolor		0 0 0 .5
+			visible			1
+			decoration
+		}
+		itemDef
+		{
+			rect			ORIGIN_MOTD 270 110
+			type			ITEM_TYPE_BUTTON
+			textfont		UI_FONT_DEFAULT
+			dvar			"ui_motd"
+			textalign		ITEM_ALIGN_LEFT
+			textscale		TEXTSIZE_DEFAULT
+			forecolor		1 1 1 1
+			backcolor		0 0 0 0
+			textalignx		5
+			textaligny		0
+			origin			ORIGIN_MOTD_OFFSET
+			visible			1
+			decoration
+			autowrapped
+		}
+		itemDef
+		{
+			type			ITEM_TYPE_TEXT
+			visible			1
+			rect			ORIGIN_MOTD_TITLE 0 0
+			origin			ORIGIN_MOTD_OFFSET
+			forecolor		1 0.8 0.4 1
+			text			"@EXTREME_MOTD"
+			textfont		UI_FONT_DEFAULT
+			textscale		TEXTSIZE_DEFAULT
+			decoration
+		}
+		itemDef
+		{
+
+			style			WINDOW_STYLE_SHADER
+			rect			ORIGIN_MOTD_FRAME 283 108
+			origin			ORIGIN_MOTD_OFFSET
+			background		"white"
+			forecolor		.5 .5 .5 0.15
+			border			1
+			bordersize		1
+			bordercolor		0.5 0.5 0.5 0.7
+			visible			1
+			decoration
+		}
+
+		// ------------------ TREE TITLE ------------------
+		
+		CHOICE_MENU_TITLE( "@MPUI_CHOOSE_TEAM" )
+		
+		// map display ================================================
+		#include "ui_mp/tactical_map.inc";		
+		
+		// ------------------ buttons ---------------------
+		#define BACK_OPEN	scriptMenuResponse "back";
+		#include "ui_mp/navcontrols.inc"
+		
+		//=========================================================
+		//===================== MENU SELECTION ====================
+		//=========================================================
+		#include "ui_mp/teamicon.inc"
+
+		// PC widescreen fix
+		#ifdef PC
+			#undef  CHOICE_X_START
+			#define CHOICE_X_START	-320
+			
+			#undef	CHOICE_HORIZONTAL_ALIGN
+			#define CHOICE_HORIZONTAL_ALIGN HORIZONTAL_ALIGN_CENTER
+		#endif
+				
+		//CHOICE_BUTTON_VIS( itemIndex, textArg, actionArg, visArg )
+		CHOICE_BUTTON_VIS( 1, "@" + dvarString( g_TeamName_Axis ), play "mouse_click"; scriptMenuResponse "axis";, when( MAY_CHOOSE_TEAM && (team( name ) == "TEAM_SPECTATOR" || team(name) == "TEAM_FREE" )); )
+		
+		CHOICE_BUTTON_BG( 2, 1 )
+		CHOICE_HIGHLIGHT( 2, 1 )
+		CHOICE_BUTTON_VIS_NOHI( 2, "@" + dvarString( g_TeamName_Allies ), play "mouse_click"; scriptMenuResponse "allies";, when( MAY_CHOOSE_TEAM && (team( name ) == "TEAM_AXIS" || team( name ) == "TEAM_SPECTATOR" || team(name) == "TEAM_FREE" )); )
+		CHOICE_BUTTON_VIS_NOHI( 2, "@" + dvarString( g_TeamName_Axis ), play "mouse_click"; scriptMenuResponse "axis";, when( MAY_CHOOSE_TEAM && (team( name ) == "TEAM_ALLIES" )); )
+		CHOICE_BUTTON_EX( 3, "@MPUI_AUTOASSIGN", play "mouse_click"; scriptMenuResponse "autoassign";, name "auto_assign" )	
+		CHOICE_SEPARATOR( CHOICE_SEP_1 )	
+		
+		CHOICE_BUTTON_BG( 4, 1 )
+		CHOICE_HIGHLIGHT( 4, 1 )
+		CHOICE_BUTTON_VIS_NOHI( 4, "@MPUI_SPECTATOR", play "mouse_click"; scriptMenuResponse "spectator";, when( team( name ) != "TEAM_SPECTATOR" && dvarbool( scr_game_spectatetype ) ); )
+		
+		CHOICE_BUTTON_VIS_NOHI( 4, "@MENU_CONTROLS", close self; open main_controls;, when( team( name ) == "TEAM_SPECTATOR" ) )
+		CHOICE_BUTTON_VIS( 5, "@MENU_OPTIONS", close self; open main_options; execnow "set ui_allow_graphic_change 0";, when( team( name ) == "TEAM_SPECTATOR" ) )
+		CHOICE_BUTTON_VIS( 6, "@MPUI_LEAVE_GAME", open popup_endgame, when( team( name ) == "TEAM_SPECTATOR" ) )
+		
+	}
+}

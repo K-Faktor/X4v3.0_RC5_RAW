@@ -1,0 +1,45 @@
+// Note to translators:
+// If a sentence is the same in your language then please change it to "#same"
+//
+// eg:
+// LANG_ENGLISH  "HALT"
+// LANG_GERMAN   "#same"
+//
+// (This is so we can tell which strings have been signed-off as ok to be the same words for QA
+//  and because we do not store duplicate strings, which will then get exported again next time
+//  as being untranslated.)
+//
+VERSION             "1"
+CONFIG              "C:\trees\cod3\cod3\bin\StringEd.cfg"
+FILENOTES           ""
+
+REFERENCE           EARNED_NAPALM
+LANG_ENGLISH        "Press [{+actionslot 4}] for NAPALM."
+
+REFERENCE           EARNED_AC130
+LANG_ENGLISH        "Press [{+actionslot 4}] for AC130."
+
+REFERENCE           EARNED_NUKE
+LANG_ENGLISH        "Press [{+actionslot 4}] to launch your TACTICAL NUKE."
+
+REFERENCE           EARNED_STEALTH
+LANG_ENGLISH        "Press [{+actionslot 4}] for STEALTHBOMBER."
+
+REFERENCE           EARNED_SENTRYGUN
+LANG_ENGLISH        "Press [{+actionslot 4}] to place SENTRYGUN."
+
+REFERENCE           SENTRYGUN_HINT
+LANG_ENGLISH        Press [{+activate}] to pickup sentrygun.
+
+REFERENCE           CHANGE_MODEL_NEXT_SPAWN
+LANG_ENGLISH        "Your player model will change the next time you spawn."
+
+REFERENCE           NO_CHANGE_MODEL
+LANG_ENGLISH        "You already have that player model"
+
+REFERENCE           CHANGE_MODEL_DEFAULT
+LANG_ENGLISH        "Player model will set to default the next time you spawn."
+
+ENDMARKER
+
+

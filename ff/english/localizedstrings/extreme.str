@@ -1,0 +1,204 @@
+// eXtreme+ localized string file
+
+REFERENCE			FIRSTBLOOD_1
+LANG_ENGLISH		"^2FIRST BLOOD GOES TO:^7"
+
+REFERENCE			FIRSTBLOOD_2
+LANG_ENGLISH		"^1YOU ARE THE FIRST BLOOD!^7"
+
+REFERENCE			SPAWN_PROTECTION_ENABLED
+LANG_ENGLISH		"^3Spawn Protection ^1Enabled!^7"
+
+REFERENCE			SPAWN_PROTECTION_DISABLED
+LANG_ENGLISH		"^3Spawn Protection ^2Disabled!^7"
+
+REFERENCE			MOD
+LANG_ENGLISH		"^3e^1X^3treme^2+ ^4COD4 ^2Mod^7"
+
+REFERENCE			RUNWARNINGA
+LANG_ENGLISH		"^1DO NOT RUN OR SPRINT!"
+
+REFERENCE			RUNWARNINGB
+LANG_ENGLISH		"Always move in a CROUCHED position!"
+
+REFERENCE			FIRST_PLAYER
+LANG_ENGLISH		"^11st WARNING!^7 Your weapon is disabled!"
+
+REFERENCE			FIRST_ALL
+LANG_ENGLISH		"&&1^7 is running - ^21st offense"
+
+REFERENCE			SECOND_PLAYER
+LANG_ENGLISH		"^12nd WARNING!^7 Your weapon is disabled and you lose half of your health!"
+
+REFERENCE			SECOND_ALL
+LANG_ENGLISH		"&&1^7 is running - ^32nd offense"
+
+REFERENCE			THIRD_PLAYER
+LANG_ENGLISH		"^13rd WARNING!^7 Read the SERVER RULES!"
+
+REFERENCE			THIRD_ALL
+LANG_ENGLISH		"&&1^7 is WARPED for running again - ^13rd offense"
+
+REFERENCE			FOURTH_PLAYERA
+LANG_ENGLISH		"^1YOU FAILED TO COMPLY!"
+
+REFERENCE			FOURTH_PLAYERB
+LANG_ENGLISH		"You will be ^1KICKED^7 from the server!"
+
+REFERENCE			FOURTH_ALL
+LANG_ENGLISH		"&&1^7 is ^1KICKED^7 from the server for running"
+
+REFERENCE			RULES_FAIL
+LANG_ENGLISH		"^1You have failed to comply to the server rules!"
+
+REFERENCE			RULES_WARN
+LANG_ENGLISH		"^1Another failure to comply will result in your banishment"
+
+REFERENCE			ZOOMLEVEL
+LANG_ENGLISH		"Zoom level "
+
+REFERENCE			MOTD
+LANG_ENGLISH		"SERVER MESSAGES"
+
+REFERENCE           EARNED_ARTILLERY
+LANG_ENGLISH        "Press [{+actionslot 4}] for ARTILLERY."
+
+REFERENCE           ARTILLERY_NOT_AVAILABLE
+LANG_ENGLISH        "Artillery not available"
+
+REFERENCE           NAPALM_NOT_AVAILABLE
+LANG_ENGLISH        "Napalm not available"
+
+REFERENCE           NUKE_NOT_AVAILABLE
+LANG_ENGLISH        "Nuke not available"
+
+REFERENCE           AC130_NOT_AVAILABLE
+LANG_ENGLISH        "AC130 not available"
+
+REFERENCE           STEALTH_NOT_AVAILABLE
+LANG_ENGLISH        "Bomber not available"
+
+REFERENCE 	    	SENTRYGUN_NOT_AVAILABLE
+LANG_ENGLISH        "Sentrygun not available"
+
+REFERENCE           CAPTURED_AXIS
+LANG_ENGLISH        "&&1 ^7captured the ^3 Allied ^7flag!"
+
+REFERENCE           CAPTURED_ALLIES
+LANG_ENGLISH        "&&1 ^7captured the ^1 Axis ^7flag!"
+
+REFERENCE           STOLE_AXIS
+LANG_ENGLISH        "&&1 ^7stole the ^3 Allied ^7flag!"
+
+REFERENCE           STOLE_ALLIES
+LANG_ENGLISH        "&&1 ^7stole the ^1 Axis ^7flag!"
+
+REFERENCE           RETURNED_AXIS
+LANG_ENGLISH        "&&1 ^7stole the ^1 Axis ^7flag!"
+
+REFERENCE           RETURNED_ALLIES
+LANG_ENGLISH        "&&1 ^7returned the ^3 Allies ^7flag!"
+
+REFERENCE           TAKEN_BACK_AXIS
+LANG_ENGLISH        "&&1 ^7has taken back the ^1 Axis ^7flag!"
+
+REFERENCE           TAKEN_BACK_ALLIES
+LANG_ENGLISH        "&&1 ^7has taken back the ^3 Allied ^7flag!"
+
+REFERENCE           DROPPED_AXIS
+LANG_ENGLISH        "^7 the ^1 Axis ^7flag has been dropped!"
+
+REFERENCE           DROPPED_ALLIES
+LANG_ENGLISH        "^7 the ^3 Allied ^7flag has been dropped!"
+
+REFERENCE           RETURNED_BASE_ALLIES
+LANG_ENGLISH        "^7 the ^3 Allied ^7flag has been returned to base!"
+
+REFERENCE           RETURNED_BASE_AXIS
+LANG_ENGLISH        "^7 the ^1 Axis ^7flag has been returned to base!"
+
+REFERENCE           DEFENDED_AXIS
+LANG_ENGLISH        "&&1 ^7defended the ^1 Axis ^7flag."
+
+REFERENCE           DEFENDED_ALLIES
+LANG_ENGLISH        "&&1 ^7defended the ^3 Allied ^7flag."
+
+REFERENCE           ASSISTED_AXIS
+LANG_ENGLISH        "&&1 assisted the ^1Axis ^7flag carrier"
+
+REFERENCE           ASSISTED_ALLIES
+LANG_ENGLISH        "&&1 assisted the ^3Allied ^7flag carrier"
+
+REFERENCE           HOLD_THE_FLAG
+LANG_ENGLISH        "^5Hold the Flag"
+
+REFERENCE			VERSION
+LANG_ENGLISH 		"v 1.1"
+
+REFERENCE           OBJ_TEXT
+LANG_ENGLISH        "Get the flag and keep it within your team as long as possible to gain score. First team that reach score &&1 wins."
+
+REFERENCE           OBJ_TEXT_NOSCORE
+LANG_ENGLISH        "Get the flag and keep it within your team as long as possible to gain score."
+
+REFERENCE           KILLED_FLAG_CARRIER
+LANG_ENGLISH        "&&1 ^7killed the flag carrier !"
+
+REFERENCE           YOU_KILLED_FLAG_CARRIER
+LANG_ENGLISH        "You killed the flag carrier !"
+
+REFERENCE           TEAMKILLED_FLAG_CARRIER
+LANG_ENGLISH        "&&1 ^1teamkilled ^7the flag carrier !"
+
+REFERENCE           YOU_TEAMKILLED_FLAG_CARRIER
+LANG_ENGLISH        "You ^1teamkilled ^7the flag carrier !"
+
+REFERENCE           STOLE_FLAG
+LANG_ENGLISH        "&&1 ^7stole the flag !"
+
+REFERENCE           YOU_STOLE_FLAG
+LANG_ENGLISH        "You stole the flag !"
+
+REFERENCE           PICKED_UP_FLAG
+LANG_ENGLISH        "&&1 ^7picked up the flag !"
+
+REFERENCE           YOU_PICKED_UP_FLAG
+LANG_ENGLISH        "You picked up the flag !"
+
+REFERENCE			ALLIED_SCORED
+LANG_ENGLISH        "The Allied team scored by holding the flag for &&1 seconds"
+
+REFERENCE			AXIS_SCORED
+LANG_ENGLISH        "The Axis team scored by holding the flag for &&1 seconds"
+
+REFERENCE           ASSISTED_FLAG_CARRIER
+LANG_ENGLISH        "&&1 ^7assisted the flag carrier !"
+
+REFERENCE           YOU_ASSISTED_FLAG_CARRIER
+LANG_ENGLISH        "You assisted the flag carrier !"
+
+REFERENCE           FLAG_TIMEOUT
+LANG_ENGLISH        "No one has stolen the flag within &&1 seconds..."
+
+REFERENCE           MAX_HOLD_TIME
+LANG_ENGLISH        "Maximum hold time (seconds):  "
+
+REFERENCE           TIMEOUT
+LANG_ENGLISH        "Flag time out (seconds):  "
+
+REFERENCE           RESPAWN_DELAY
+LANG_ENGLISH        "Respawn delay (seconds):  "
+
+REFERENCE           FLAG_SPAWN_DELAY
+LANG_ENGLISH        "Flag spawn delay (seconds):  "
+
+REFERENCE           RANDOM_FLAG_SPAWNS
+LANG_ENGLISH        "Random flag spawns:  "
+
+REFERENCE           AT4_X_2
+LANG_ENGLISH        "AT4 x 2"
+
+REFERENCE 			SENTRYGUN_GONE
+LANG_ENGLISH 		"^3&&1's^7 Sentrygun has been destroyed!"
+
+ENDMARKER

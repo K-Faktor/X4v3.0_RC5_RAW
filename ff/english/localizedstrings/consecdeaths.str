@@ -1,0 +1,18 @@
+// eXtreme+ consecutive deaths string file
+
+REFERENCE			MSG_5
+LANG_ENGLISH		"&&1^7 has died 5 times in a row. Please be gentle!"
+
+REFERENCE			MSG_8
+LANG_ENGLISH		"&&1^7 needs help (died 8 times in a row)"
+
+REFERENCE			MSG_10
+LANG_ENGLISH		"&&1^7 needs serious practice (died 10 times in a row)"
+
+REFERENCE			MSG_13
+LANG_ENGLISH		"&&1^7 go play solitaire (died 13 times in a row)"
+
+REFERENCE			MSG_16
+LANG_ENGLISH		"&&1^7 must be a masochist (16+ deaths in a row)"
+
+ENDMARKER

@@ -1,0 +1,45 @@
+// eXtreme+ client control string file
+
+REFERENCE				CONNECTING
+LANG_ENGLISH			"&&1^7 is connecting to the server"
+
+REFERENCE				HASJOINED
+LANG_ENGLISH			"&&1^7 has joined the server"
+
+REFERENCE				DISCONNECTED
+LANG_ENGLISH			"&&1^7 has left the server"
+
+REFERENCE				FORCED_JOIN_AMERICAN
+LANG_ENGLISH			"&&1^7 was forced to join the Americans"
+
+REFERENCE				FORCED_JOIN_BRITISH
+LANG_ENGLISH			"&&1^7 was forced to join the British"
+
+REFERENCE				FORCED_JOIN_RUSSIAN
+LANG_ENGLISH			"&&1^7 was forced to join the Russians"
+
+REFERENCE				FORCED_JOIN_GERMAN
+LANG_ENGLISH			"&&1^7 was forced to join the Germans"
+
+REFERENCE				RECRUIT_MARINES
+LANG_ENGLISH			"&&1^7 was recruited by the Marines"
+
+REFERENCE				RECRUIT_SAS
+LANG_ENGLISH			"&&1^7 was recruited by the SAS"
+
+REFERENCE				RECRUIT_RUSSIAN
+LANG_ENGLISH			"&&1^7 was recruited by the Spetsnaz"
+
+REFERENCE				RECRUIT_OPFOR
+LANG_ENGLISH			"&&1^7 was recruited by the Opfor"
+
+REFERENCE				INACTIVITY_WARNING_A_1
+LANG_ENGLISH			"&&1^7, you will be kicked in"
+
+REFERENCE				INACTIVITY_WARNING_B_1
+LANG_ENGLISH			"&&1^7 seconds for inactivity!"
+
+REFERENCE				INACTIVITY_WARNING_2
+LANG_ENGLISH			"&&1^7 has been kicked for inactivity"
+
+ENDMARKER

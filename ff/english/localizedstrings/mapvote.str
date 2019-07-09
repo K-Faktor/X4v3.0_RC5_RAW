@@ -1,0 +1,33 @@
+// eXtreme+ map vote string file
+
+REFERENCE       TITLE
+LANG_ENGLISH    "^1X^24 ^7Map Vote"
+
+REFERENCE       HEADERS
+LANG_ENGLISH    "Votes"
+
+REFERENCE       HOWTO
+LANG_ENGLISH    "Press ^2FIRE^7 to vote or ^2MELEE^7 to flip page"
+
+REFERENCE       TIMELEFT
+LANG_ENGLISH    "Time left: ^1"
+
+REFERENCE       INPROGRESS
+LANG_ENGLISH    "MAP VOTE IN PROGRESS"
+
+REFERENCE       NOTALLOWED
+LANG_ENGLISH    "You are not allowed to vote!"
+
+REFERENCE       PLEASEWAIT
+LANG_ENGLISH    "Please wait..."
+
+REFERENCE       REPLAY
+LANG_ENGLISH    "Replay previous map"
+
+REFERENCE       WINNER
+LANG_ENGLISH    "And the winner is..."
+
+REFERENCE       PAGE
+LANG_ENGLISH    "Page "
+
+ENDMARKER
